@@ -1,0 +1,11 @@
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\chatgpt\target\debug\deps\socket2-e418297c7c55ba1b.rmeta: C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\lib.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockaddr.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\socket.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockref.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sys\windows.rs
+
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\chatgpt\target\debug\deps\libsocket2-e418297c7c55ba1b.rlib: C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\lib.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockaddr.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\socket.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockref.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sys\windows.rs
+
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\chatgpt\target\debug\deps\socket2-e418297c7c55ba1b.d: C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\lib.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockaddr.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\socket.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockref.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sys\windows.rs
+
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\lib.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockaddr.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\socket.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockref.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sys\windows.rs:

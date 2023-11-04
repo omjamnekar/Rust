@@ -1,0 +1,11 @@
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\chatgpt\target\debug\deps\term-76ee8507b9c671ec.rmeta: C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\lib.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\mod.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\searcher.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\parser\compiled.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\parser\names.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\parm.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\win.rs
+
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\chatgpt\target\debug\deps\term-76ee8507b9c671ec.d: C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\lib.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\mod.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\searcher.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\parser\compiled.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\parser\names.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\parm.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\win.rs
+
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\lib.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\mod.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\searcher.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\parser\compiled.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\parser\names.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\terminfo\parm.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.6.1\src\win.rs:

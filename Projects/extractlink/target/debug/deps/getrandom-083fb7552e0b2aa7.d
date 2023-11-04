@@ -1,0 +1,11 @@
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\extractlink\target\debug\deps\getrandom-083fb7552e0b2aa7.rmeta: C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\lib.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\util.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error_impls.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\windows.rs
+
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\extractlink\target\debug\deps\libgetrandom-083fb7552e0b2aa7.rlib: C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\lib.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\util.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error_impls.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\windows.rs
+
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\extractlink\target\debug\deps\getrandom-083fb7552e0b2aa7.d: C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\lib.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\util.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error_impls.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\windows.rs
+
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\lib.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\util.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error_impls.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\windows.rs:

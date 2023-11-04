@@ -1,0 +1,1 @@
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\authentication\target\debug\authentication.exe: C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\authentication\src\main.rs

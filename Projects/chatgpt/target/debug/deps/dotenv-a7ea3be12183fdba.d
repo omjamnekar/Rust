@@ -1,0 +1,11 @@
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\chatgpt\target\debug\deps\dotenv-a7ea3be12183fdba.rmeta: C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\lib.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\parse.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\errors.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\iter.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\find.rs
+
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\chatgpt\target\debug\deps\libdotenv-a7ea3be12183fdba.rlib: C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\lib.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\parse.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\errors.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\iter.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\find.rs
+
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\chatgpt\target\debug\deps\dotenv-a7ea3be12183fdba.d: C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\lib.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\parse.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\errors.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\iter.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\find.rs
+
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\lib.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\parse.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\errors.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\iter.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenv-0.15.0\src\find.rs:

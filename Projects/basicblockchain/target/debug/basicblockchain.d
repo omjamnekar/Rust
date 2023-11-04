@@ -1,0 +1,1 @@
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\basicblockchain\target\debug\basicblockchain.exe: C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\basicblockchain\src\main.rs

@@ -1,0 +1,11 @@
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\extractlink\target\debug\deps\winreg-de44432d93ff9015.rmeta: C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\lib.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\common.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\enums.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\reg_key.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\reg_key_metadata.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\reg_value.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\types.rs
+
+C:\Users\Om\OneDrive\Desktop\om\languages\Rust\project\50Projects\extractlink\target\debug\deps\winreg-de44432d93ff9015.d: C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\lib.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\common.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\enums.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\reg_key.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\reg_key_metadata.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\reg_value.rs C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\types.rs
+
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\lib.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\common.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\enums.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\reg_key.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\reg_key_metadata.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\reg_value.rs:
+C:\Users\Om\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.50.0\src\types.rs:
